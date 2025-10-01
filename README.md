@@ -1,2 +1,2 @@
 # belajar-git
-Ini adlah repository untuk belajar git
+Ini adalah repository untuk belajar git
